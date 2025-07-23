@@ -1,4 +1,4 @@
-package com.example.cricketteamrankingapp.ui.theme
+package com.example.cricketteamrankingapp.core.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
